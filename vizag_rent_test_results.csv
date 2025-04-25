@@ -1,0 +1,5 @@
+location,bhk,area,predicted_rent,rent_per_sqft,validation
+MVP Colony,1,650,47397.85,72.91976923076923,"{'is_valid': False, 'expected_range': '₹8,000 - ₹12,000', 'difference': 37397.85}"
+MVP Colony,2,850,51595.61,60.70071764705882,"{'is_valid': False, 'expected_range': '₹12,000 - ₹18,000', 'difference': 36595.61}"
+Madhurawada,1,600,39984.13,66.64021666666666,"{'is_valid': False, 'expected_range': '₹6,000 - ₹10,000', 'difference': 31984.129999999997}"
+Madhurawada,2,800,47309.04,59.1363,"{'is_valid': False, 'expected_range': '₹10,000 - ₹15,000', 'difference': 34809.04}"

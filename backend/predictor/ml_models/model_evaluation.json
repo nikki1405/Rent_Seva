@@ -1,0 +1,60 @@
+{
+    "model_performance": {
+        "mse": 22943262.93835508,
+        "rmse": 4789.912623248474,
+        "mae": 3708.3364709910875,
+        "r2_score": 0.5157571893658884
+    },
+    "feature_importance": {
+        "location": 0.10949494574041028,
+        "built_area_sqft": 0.16626637657855262,
+        "bhk": 0.0734138925956124,
+        "bathrooms": 0.07506954904829032,
+        "lift": 0.015258555335791053,
+        "air_conditioner": 0.011465594626917073,
+        "parking": 0.019097917424529893,
+        "gym": 0.01964475988227552,
+        "security": 0.021887202366409803,
+        "water_supply": 0.12576083513482852,
+        "area_per_room": 0.13925152396785528,
+        "amenities_score": 0.11925078774589293,
+        "location_tier": 0.10413805955263437
+    },
+    "location_stats": {
+        "MVP Colony": {
+            "count": 20,
+            "median_rent": 9106.400351473116,
+            "avg_rent": 9518.143556726685
+        },
+        "Beach Road": {
+            "count": 20,
+            "median_rent": 14481.880563894392,
+            "avg_rent": 12998.994915817895
+        },
+        "Madhurawada": {
+            "count": 20,
+            "median_rent": 10482.286405176295,
+            "avg_rent": 10126.907502823176
+        },
+        "Gajuwaka": {
+            "count": 16,
+            "median_rent": 7859.776082696166,
+            "avg_rent": 7479.556048384986
+        },
+        "Pendurthi": {
+            "count": 16,
+            "median_rent": 6607.577954292962,
+            "avg_rent": 6286.930839470585
+        },
+        "Seethammadhara": {
+            "count": 20,
+            "median_rent": 12168.968657221121,
+            "avg_rent": 10878.013435725361
+        },
+        "Rushikonda": {
+            "count": 20,
+            "median_rent": 10570.43446076603,
+            "avg_rent": 9836.560330807508
+        }
+    }
+}
